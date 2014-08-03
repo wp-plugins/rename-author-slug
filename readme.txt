@@ -24,5 +24,5 @@ Now you wish the word 'author' to be changed to 'teacher'. So, this is the plugi
 
 == Screenshots ==
 
-1. Configure page
-2. Custom author slug
+1. Configure page.
+2. Custom author slug.
