@@ -1,6 +1,6 @@
 === Rename Author Slug ===
 Contributors: mukto90
-Tags: permalink, author permalink, author url, author base, url base, permalink base, change author url, change permalink, author slug, author profile slug
+Tags: permalink, author permalink, author url, author base, url base, permalink base, change author url, change permalink, author slug, author profile slug, mdc
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: 1.0.0
