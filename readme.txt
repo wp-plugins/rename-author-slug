@@ -12,7 +12,7 @@ This simple plugin changes the author based permalink slug 'author' to anything 
 == Description ==
 
 This simple plugin changes the user based permalink slug 'author' to anything you wish.
-For example, you have an e-learning management system where different members teach on different topics. Each member has his unique profile url (author permalink) something like this: http://example.com/author/blubird
+For example, you have an e-learning management system where different members teach on different topics. Each member has his unique profile url (author permalink) something like this: http://blubirdinteractive.com/author/blubird
 Now you wish the word 'author' to be changed to 'teacher'. So, this is the plugin you need.
 
 == Installation ==
