@@ -2,8 +2,8 @@
 Contributors: mukto90, blubird
 Tags: permalink, author permalink, author url, author base, url base, permalink base, change author url, change permalink, author slug, author profile slug, mdc
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.1.0
+Tested up to: 4.1
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

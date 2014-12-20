@@ -5,12 +5,12 @@ Description: This simple plugin changes the author based permalink slug 'author'
 Author: BluBird Interactive
 Plugin URI: https://wordpress.org/plugins/rename-author-slug/
 Author URI: http://blubirdinteractive.com
-Version: 1.1.0
+Version: 1.2.0
 License: GPL2+
 Text Domain: BluBird
 */
 function author_base_url(){
-	add_menu_page( 'Author Slug', 'Author Slug', 'administrator', 'author_base', 'author_base_page', plugin_dir_url( __FILE__ ).'/images/icon.png', 10 );
+	add_menu_page( 'Author Slug', 'Author Slug', 'administrator', 'author_base', 'author_base_page', plugin_dir_url( __FILE__ ).'/images/icon.png', 10.32 );
 }
 add_action('admin_menu', 'author_base_url');
 function author_base_page(){
