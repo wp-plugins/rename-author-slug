@@ -1,5 +1,5 @@
 === Rename Author Slug ===
-Contributors: mukto90, blubird
+Contributors: blubird, mukto90, kazi_shahin
 Tags: permalink, author permalink, author url, author base, url base, permalink base, change author url, change permalink, author slug, author profile slug, mdc
 Requires at least: 3.0
 Tested up to: 4.1
@@ -12,7 +12,7 @@ This simple plugin changes the author based permalink slug 'author' to anything 
 == Description ==
 
 This simple plugin changes the user based permalink slug 'author' to anything you wish.
-For example, you have an e-learning management system where different members teach on different topics. Each member has his unique profile url (author permalink) something like this: http://blubirdinteractive.com/author/blubird
+For example, you have an e-learning management system where different members teach on different topics. Each member has his/her unique profile url (author permalink) something like this: http://blubirdinteractive.com/author/blubird
 Now you wish the word 'author' to be changed to 'teacher'. So, this is the plugin you need.
 
 == Installation ==
